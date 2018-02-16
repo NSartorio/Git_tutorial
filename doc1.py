@@ -3,6 +3,6 @@
 x = 7
 y = 6 
 w = 5
-v = 1
+v = banana
 z = x + y +v + w
 
